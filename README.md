@@ -4,3 +4,5 @@ O Arduino é uma placa de prototipagem eletrônica que permite o desenvolvimento
 # Sensor de temperatura
 
 O sensor de temperatura é uma tecnologia utilizada para identificar as variações de temperatura em máquinas, equipamentos e em ambientes. Os dados que o sensor fornece sobre a temperatura de determinada máquina ou equipamento são muito importantes para o monitoramento e manutenção deles.
+
+! https://flaviobabos.com.br/wp-content/uploads/2020/06/montagem-sensor-de-temperatura-lm35-com-arduino.png
